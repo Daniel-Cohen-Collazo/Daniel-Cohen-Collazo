@@ -20,16 +20,16 @@ I'm building at the intersection of **sales, AI, and business systems** — with
 ---
 
 ## 📈 Sales performance (FY2026 YTD)
-
-- 💰 **$160,505** in total sales
-- 🎯 **$111,097** goal
-- 📊 **$49,408 above target (+44%)**
-- 📦 **247 orders sold**
-- ⚡ **$134,161 D30 sales**
-- 📝 **$74,391 in open quotes**
-- 📂 **22 active open quotes**
-- 🤝 **16 leads**
-- 📏 **63 measures**
+- 💰 **$245,594** in total sales
+- 🎯 **$142,990** goal
+- 📊 **$102,604 above target (+72%)**
+- 🏆 **#2 of 31 Millwork Specialists district-wide**
+- 📦 **326 orders sold**
+- ⚡ **$190,718 D30 sales**
+- 📝 **$27,613 in open quotes**
+- 📂 **12 active open quotes**
+- 🤝 **20 leads**
+- 📏 **75 measures (94% completion rate)**
 - 💳 **7 credit applications**
 
 ---
