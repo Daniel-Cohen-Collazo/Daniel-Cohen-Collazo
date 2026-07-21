@@ -1,124 +1,72 @@
-<div align="center">
+# Daniel Cohen-Collazo
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+I'm+Daniel+Cohen-Collazo+👋;Sales+Professional+%7C+AI+Builder;UTSA+Information+Systems+'26" alt="Typing SVG" />
+**Sales Professional & AI Builder** | UTSA Information Systems | LangGraph · OpenAI · RAG
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-cohen-collazo)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielcohencollazo@gmail.com)
-[![Location](https://img.shields.io/badge/San_Antonio_TX-Open_to_Remote-brightgreen?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com)
+[![Open to Remote](https://img.shields.io/badge/San_Antonio_TX-Open_to_Remote-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com)
 
-I'm building at the intersection of **sales, AI, and business systems** — with hands-on experience in quota-carrying sales, outbound prospecting, AI automation, and business-focused technical projects.
-
-</div>
+Building at the intersection of **sales, AI, and business systems** — quota-carrying sales, outbound prospecting, and hands-on AI automation. I've climbed five roles at The Home Depot (Paint → Cashier → Paint → Flooring Specialist → Millwork Specialist) since 2020.
 
 ---
 
-## 🚀 What I'm Doing
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sales-banner-dark.svg">
+  <img alt="Sales" src="./assets/sales-banner-light.svg" width="100%">
+</picture>
 
-🏪 **Quota-carrying sales at The Home Depot**
-Focused on consultative selling, pipeline management, outbound follow-up, and revenue generation.
-
-🌐 **Founder of Okapi Marketing**
-I prospect SMB owners, run discovery calls, and implement websites, CRM systems, automation workflows, and customer engagement solutions.
-
-🧠 **Building AI projects**
-Working with LangGraph, OpenAI, ChromaDB, and RAG to create practical, business-facing tools and autonomous workflows.
-
----
-
-## 📈 Sales Performance — FY2026 YTD
-
-<div align="center">
+## Sales Performance — FY2026 (Jul 2025 – Jul 2026)
 
 | Metric | Value |
-|--------|-------|
-| 💰 Total Sales | **$245,594** |
-| 🎯 Goal | **$142,990** |
-| 📊 Above Target | **+$102,604 (+72%)** |
-| 🏆 District Ranking | **#2 of 31 Millwork Specialists** |
-| 📦 Orders Sold | **326** |
-| ⚡ D30 Sales | **$190,718** |
-| 📝 Open Quotes | **$27,613** |
-| 📂 Active Quotes | **12** |
-| 🤝 Leads | **20** |
-| 📏 Measures | **75 (94% completion rate)** |
-| 💳 Credit Applications | **7** |
+| --- | --- |
+| Overall Sales | **$360,821** |
+| Goal | **$295,462** |
+| Above Target | **+$65,246 (+22%)** |
+| District Ranking | **#2 of 30 Specialists** |
+| D30 Sales | **$291,754** |
+| Measures | **#1 in district (101%)** |
+| Store Department | **#1 of 11** |
 
-</div>
+*First year in a specialist seat (Flooring, then Millwork) — ranked #2 of 30 district-wide.*
 
----
+[![Sales Resume](https://img.shields.io/badge/Sales_Resume-SDR_·_BDR_·_AE-1f883d?style=for-the-badge&logo=readdotcv&logoColor=white)](./Daniel-Cohen-Collazo-Sales-Resume.pdf)
 
-## 🌟 Featured Project
+### District Ranking — Specialists (top 6)
 
-### 🏦 Senior Mortgage Underwriting System
+```mermaid
+xychart-beta
+    title "Overall sales by specialist ($)"
+    x-axis ["Parra", "Cohen-Collazo", "Wood", "Zadrozny", "Cross", "Spencer"]
+    y-axis "Sales ($)" 0 --> 360000
+    bar [340590, 263322, 261562, 255601, 228671, 227688]
+```
 
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Multi_Agent_System-orange?style=flat-square)
-[![LangGraph](https://img.shields.io/badge/LangGraph-00B4D8?style=flat-square)](https://langchain-ai.github.io/langgraph/)
-[![RAG](https://img.shields.io/badge/RAG-Enabled-success?style=flat-square)](https://github.com)
-[![Accuracy](https://img.shields.io/badge/Test_Accuracy-100%25-brightgreen?style=flat-square)](https://github.com)
-
-A multi-agent AI underwriting system built with LangGraph, OpenAI, ChromaDB, and RAG. Six specialized agents analyze credit, income, assets, and collateral before generating an audit-ready credit memo and final decision across three real-world test cases with 100% accuracy against expected outcomes.
-
-### 📈 Autonomous Financial Analyst AI Agent
-
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
-![Type](https://img.shields.io/badge/Type-AI_Agent-purple?style=flat-square)
-[![LangGraph](https://img.shields.io/badge/LangGraph-00B4D8?style=flat-square)](https://langchain-ai.github.io/langgraph/)
-[![RAG](https://img.shields.io/badge/RAG-Enabled-success?style=flat-square)](https://github.com)
-
-Combines stock data, financial news, sentiment analysis, and private-document retrieval into decision-ready investment research outputs with grounded responses, source-aware synthesis, and faster analysis.
+<!-- MONTHLY GROWTH CHART — reserved. Fill once Aug 2025–Jul 2026 monthly totals are verified against $360,821. -->
 
 ---
 
-## ⚙️ Tech Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-banner-light.svg">
+  <img alt="Technical" src="./assets/tech-banner-dark.svg" width="100%">
+</picture>
 
-<div align="center">
+## Technical Background
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-00B4D8?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+UTSA B.B.A. in Information Systems (Cybersecurity concentration, 2026), Johns Hopkins Agentic AI certificate, and hands-on labs in network security, firewall configuration, and traffic analysis. CompTIA Security+ in progress.
 
-</div>
+[![Technical Resume](https://img.shields.io/badge/Technical_Resume-Cyber_·_IS_·_AI-8957e5?style=for-the-badge&logo=readdotcv&logoColor=white)](./Daniel-Cohen-Collazo-Technical-Resume.pdf)
 
----
+### Featured Projects
 
-## 🛠️ Current Focus
+**Senior Mortgage Underwriting System** — `Python` `LangGraph` `OpenAI` `ChromaDB` `RAG`
+Multi-agent system: six agents analyze credit, income, assets, and collateral to generate an audit-ready credit memo and decision — **100% accuracy across three real-world test cases.**
 
-<div align="center">
-
-![Agentic AI](https://img.shields.io/badge/🤖_Agentic_AI-Autonomous_Workflows-00B4D8?style=for-the-badge)
-![RAG](https://img.shields.io/badge/🔎_RAG-Retrieval_Augmented_Generation-412991?style=for-the-badge)
-![AI Automation](https://img.shields.io/badge/🧩_AI_Automation-Business_Operations-FF6B35?style=for-the-badge)
-![Sales Dev](https://img.shields.io/badge/📬_Sales_Dev-Outbound_Systems-brightgreen?style=for-the-badge)
-![CRM](https://img.shields.io/badge/📈_CRM-Pipeline_Optimization-orange?style=for-the-badge)
-
-</div>
+**Autonomous Financial Analyst AI Agent** — `Python` `LangGraph` `OpenAI` `ChromaDB` `RAG`
+AI research agent synthesizing financial data, news, and documents into decision-ready, source-cited reports — cutting research time from hours to minutes.
 
 ---
 
-## 🎯 Open To
+## Open To
 
-**SDR, BDR, and Account Development roles** in:
-
-[![B2B SaaS](https://img.shields.io/badge/B2B_SaaS-0A66C2?style=for-the-badge)](https://github.com)
-[![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com)
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B35?style=for-the-badge)](https://github.com)
-[![Fintech](https://img.shields.io/badge/Fintech-brightgreen?style=for-the-badge)](https://github.com)
-
-I'm especially interested in teams that value **high performance, technical curiosity, and execution.**
-
----
-
-<div align="center">
-
-> "Clear goals, measurable outcomes, and building useful things" is the kind of work I like most.
-
-</div>
+**Sales:** SDR · BDR · Account Development · Junior AE in B2B SaaS · AI · Cybersecurity
+**Technical:** IS / Security analyst, GRC, and automation-adjacent roles
