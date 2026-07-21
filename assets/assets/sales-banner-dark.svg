@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="800" height="150" role="img" aria-label="Sales banner">
+  <rect width="800" height="150" fill="#0b0b0b" stroke="#2c2c2a" stroke-width="1"/>
+  <rect x="0" y="0" width="8" height="150" fill="#2ea043"/>
+  <text x="40" y="60" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#ffffff">SALES</text>
+  <text x="42" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#c3c2b7">SDR · BDR · Account Executive</text>
+  <text x="42" y="118" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#2ea043">$360,821 FY26 · +22% to goal · #2 of 30 district-wide</text>
+  <text x="760" y="58" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#888880">The Home Depot</text>
+</svg>
