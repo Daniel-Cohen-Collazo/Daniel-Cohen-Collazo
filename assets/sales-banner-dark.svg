@@ -1,8 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="800" height="150" role="img" aria-label="Sales banner">
-  <rect width="800" height="150" fill="#0b0b0b" stroke="#2c2c2a" stroke-width="1"/>
-  <rect x="0" y="0" width="8" height="150" fill="#2ea043"/>
-  <text x="40" y="60" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#ffffff">SALES</text>
-  <text x="42" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#c3c2b7">SDR · BDR · Account Executive</text>
-  <text x="42" y="118" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#2ea043">$360,821 FY26 · +22% to goal · #2 of 30 district-wide</text>
-  <text x="760" y="58" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#888880">The Home Depot</text>
+  <defs>
+    <linearGradient id="shineS" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#1f883d" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="150" fill="#ffffff" stroke="#e1e0d9"/>
+  <rect x="0" y="0" width="8" height="0" fill="#1f883d">
+    <animate attributeName="height" from="0" to="150" dur="0.8s" fill="freeze"/>
+  </rect>
+  <rect width="300" height="150" fill="url(#shineS)">
+    <animate attributeName="x" from="-300" to="800" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <text x="40" y="60" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#0b0b0b">SALES</text>
+  <text x="42" y="90" font-family="Arial, sans-serif" font-size="18" fill="#444">SDR · BDR · Account Executive</text>
+  <text x="42" y="118" font-family="Arial, sans-serif" font-size="15" fill="#1f883d">$360,821 since promotion · #2 of 30 district-wide</text>
+  <text x="760" y="58" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#888">The Home Depot</text>
 </svg>
