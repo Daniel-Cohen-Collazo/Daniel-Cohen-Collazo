@@ -62,9 +62,19 @@ UTSA B.B.A. in Information Systems (Cybersecurity concentration, 2026), Johns Ho
 
 Multi-agent system: six agents analyze credit, income, assets, and collateral to generate an audit-ready credit memo and decision — **100% accuracy across three real-world test cases.**
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-2ea44f?style=flat-square&logo=github)](https://daniel-cohen-collazo.github.io/johns-hopkins-agentic-ai-portfolio/project-3-senior-mortgage-underwriting/Daniel%27s_Learners_Notebook_Project%203.html)
+
 **Autonomous Financial Analyst AI Agent** — `Python` `LangGraph` `OpenAI` `ChromaDB` `RAG`
 
 AI research agent synthesizing financial data, news, and documents into decision-ready, source-cited reports — cutting research time from hours to minutes.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-2ea44f?style=flat-square&logo=github)](https://daniel-cohen-collazo.github.io/johns-hopkins-agentic-ai-portfolio/project-2-autonomous-financial-analyst/Daniel_Cohen_Collazo_Autonomous_Financial_Analyst.html)
+
+**DualLens Analytics — Business Applications of Agentic AI** — `Python` `LangGraph` `OpenAI` `ChromaDB` `RAG`
+
+Structured AI-assisted analysis workflow combining financial data and document retrieval to support evidence-based evaluation across multiple information sources, with built-in checks for output quality, relevance, and reliability.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-2ea44f?style=flat-square&logo=github)](https://daniel-cohen-collazo.github.io/johns-hopkins-agentic-ai-portfolio/project-1-duallens-analytics/Daniel_Cohen-Collazo_DualLens_Analytics.html)
 
 ---
 
