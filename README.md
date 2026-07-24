@@ -54,7 +54,7 @@ xychart-beta
 
 UTSA B.B.A. in Information Systems (Cybersecurity concentration, 2026), Johns Hopkins Agentic AI certificate, and hands-on labs in network security, firewall configuration, and traffic analysis. CompTIA Security+ in progress.
 
-[![Technical Resume](https://img.shields.io/badge/Technical_Resume-Cyber_·_IS_·_AI-8957e5?style=for-the-badge&logo=readdotcv&logoColor=white)](./Daniel-Cohen-Collazo-Technical-Resume.pdf)
+[![Technical Resume](https://img.shields.io/badge/Technical_Resume-Cyber_·_IS_·_AI-8957e5?style=for-the-badge&logo=readdotcv&logoColor=white)](./Daniel_Cohen-Collazo_Resume_TechnicalIS.pdf)
 
 ### Featured Projects
 
