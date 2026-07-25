@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-cohen-collazo)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielcohencollazo@gmail.com)
 [![Handshake](https://img.shields.io/badge/Handshake-ABD135?style=for-the-badge&logo=handshake&logoColor=black)](https://utsa.joinhandshake.com/profiles/danielcohencollazo)
+[![Open to Remote](https://img.shields.io/badge/San_Antonio_TX-Open_to_Remote-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com)
 
 Building at the intersection of **sales, AI, and business systems** — quota-carrying sales, outbound prospecting, and hands-on AI automation. Five roles at The Home Depot since May 2020 (Paint Associate → Cashier → Paint Associate → Flooring Specialist), promoted into **Millwork Sales Specialist in Aug 2025** — ranked top of district within the first year in the seat.
 
